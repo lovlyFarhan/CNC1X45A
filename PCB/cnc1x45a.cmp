@@ -1,0 +1,339 @@
+Cmp-Mod V01 Created by CvPcb (2013-01-27 BZR 3925)-testing date = 1/31/2013 12:00:33 AM
+
+BeginCmp
+TimeStamp = /5103602D;
+Reference = C1;
+ValeurCmp = CP;
+IdModule  = C2V10;
+EndCmp
+
+BeginCmp
+TimeStamp = /5103601E;
+Reference = C2;
+ValeurCmp = 1u;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /51035D3C;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51044DB2;
+Reference = C4;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5104F7F5;
+Reference = C5;
+ValeurCmp = 1u;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /51035FF5;
+Reference = D1;
+ValeurCmp = P4KE47A;
+IdModule  = D4;
+EndCmp
+
+BeginCmp
+TimeStamp = /51042EC3;
+Reference = D2;
+ValeurCmp = DIODE;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51043268;
+Reference = D3;
+ValeurCmp = DIODE;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51043249;
+Reference = D4;
+ValeurCmp = DIODE;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5109BFFF;
+Reference = H1;
+ValeurCmp = MOUNT_HOLE;
+IdModule  = MountingHole_3-5mm_RevA_Date21Jun2010;
+EndCmp
+
+BeginCmp
+TimeStamp = /5109C00C;
+Reference = H2;
+ValeurCmp = MOUNT_HOLE;
+IdModule  = MountingHole_3-5mm_RevA_Date21Jun2010;
+EndCmp
+
+BeginCmp
+TimeStamp = /51045426;
+Reference = IC1;
+ValeurCmp = ATTINY24A-SS;
+IdModule  = SO14;
+EndCmp
+
+BeginCmp
+TimeStamp = /51045DA3;
+Reference = ISP1;
+ValeurCmp = AVRISP-6;
+IdModule  = adafruit-AVRISP;
+EndCmp
+
+BeginCmp
+TimeStamp = /510989AB;
+Reference = LB1;
+ValeurCmp = FIDUCIAL;
+IdModule  = olimex-SPARKFUNEAGLE-6-6-07_FIDUCIAL-1.5X3;
+EndCmp
+
+BeginCmp
+TimeStamp = /510989B8;
+Reference = LB2;
+ValeurCmp = FIDUCIAL;
+IdModule  = olimex-SPARKFUNEAGLE-6-6-07_FIDUCIAL-1.5X3;
+EndCmp
+
+BeginCmp
+TimeStamp = /510989BE;
+Reference = LB3;
+ValeurCmp = FIDUCIAL;
+IdModule  = olimex-SPARKFUNEAGLE-6-6-07_FIDUCIAL-1.5X3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5108AF50;
+Reference = LD1;
+ValeurCmp = DRV_A4989_LED_DUO;
+IdModule  = LED_DUO;
+EndCmp
+
+BeginCmp
+TimeStamp = /510444BC;
+Reference = OK1;
+ValeurCmp = 6N135;
+IdModule  = optocoupler-2-DIL08;
+EndCmp
+
+BeginCmp
+TimeStamp = /5104487E;
+Reference = OK2;
+ValeurCmp = 6N135;
+IdModule  = optocoupler-2-DIL08;
+EndCmp
+
+BeginCmp
+TimeStamp = /510431C6;
+Reference = OK3;
+ValeurCmp = PC817;
+IdModule  = optocoupler-2-DIL04;
+EndCmp
+
+BeginCmp
+TimeStamp = /51036502;
+Reference = P1;
+ValeurCmp = CONN_5X2;
+IdModule  = he10-10d-short;
+EndCmp
+
+BeginCmp
+TimeStamp = /5103600F;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = bornier2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51020B65;
+Reference = P3;
+ValeurCmp = CONN_2;
+IdModule  = bornier2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51021623;
+Reference = P4;
+ValeurCmp = CONN_2;
+IdModule  = bornier2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51043256;
+Reference = P5;
+ValeurCmp = CONN_2;
+IdModule  = bornier2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51021632;
+Reference = P6;
+ValeurCmp = CONN_2;
+IdModule  = bornier2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5104323D;
+Reference = P7;
+ValeurCmp = CONN_2;
+IdModule  = bornier2;
+EndCmp
+
+BeginCmp
+TimeStamp = /510357B7;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /510357C6;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /510447B0;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /510447C3;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /510449CD;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51044A34;
+Reference = R6;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51042EB4;
+Reference = R7;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51021641;
+Reference = R8;
+ValeurCmp = R;
+IdModule  = R6;
+EndCmp
+
+BeginCmp
+TimeStamp = /51043262;
+Reference = R9;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51035E22;
+Reference = R10;
+ValeurCmp = 51k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /510358C2;
+Reference = R11;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51021742;
+Reference = R12;
+ValeurCmp = R;
+IdModule  = R6;
+EndCmp
+
+BeginCmp
+TimeStamp = /51043243;
+Reference = R13;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /510358B3;
+Reference = R14;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5104BA12;
+Reference = R15;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5104BA28;
+Reference = R16;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /510358A4;
+Reference = RV1;
+ValeurCmp = POT;
+IdModule  = RV2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51036352;
+Reference = SJ1;
+ValeurCmp = JUMPER_SJ2W;
+IdModule  = olimex-JUMPER_SJ_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51021A09;
+Reference = SW1;
+ValeurCmp = DIPS_04;
+IdModule  = DIPS-DS04;
+EndCmp
+
+BeginCmp
+TimeStamp = /510990C2;
+Reference = SW2;
+ValeurCmp = SW_PUSH;
+IdModule  = TACTILE-SWITCH-SMD-1101NE;
+EndCmp
+
+BeginCmp
+TimeStamp = /51021614;
+Reference = U1;
+ValeurCmp = TB6600;
+IdModule  = HZIP25-P-1.00F;
+EndCmp
+
+EndListe
